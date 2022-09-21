@@ -7,5 +7,7 @@ public class Test1 {
         int x = sc.nextInt();
         int y = sc.nextInt();
         System.out.println(x + y);
+        System.out.println(x * y);
+        System.out.println(y / x);
     }
 }
