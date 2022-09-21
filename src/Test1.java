@@ -9,5 +9,7 @@ public class Test1 {
         System.out.println(x + y);
         System.out.println(x * y);
         System.out.println(y / x);
+        int total = (x + y) * 1000;
+        System.out.println(total + "$");
     }
 }
