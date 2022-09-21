@@ -11,5 +11,6 @@ public class Test1 {
         System.out.println(y / x);
         int total = (x + y) * 1000;
         System.out.println(total + "$");
+        System.out.println("Thank you! We glad you came!");
     }
 }
