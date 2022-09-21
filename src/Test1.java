@@ -13,5 +13,6 @@ public class Test1 {
         System.out.println(total + "$");
         System.out.println("Bag Gucci price:" + x * 1000);
         System.out.println("Shoes Dior price:" + y * 1000);
+        System.out.println("Thank you! We glad you came!");
     }
 }
